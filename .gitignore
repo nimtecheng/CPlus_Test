@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+#debugging
+.vs/
+**/Debugging/
+**/debug/
+**/release/
+
+#vs project
+*.vcxproj
+*.filters
+*.user
+*.aps
